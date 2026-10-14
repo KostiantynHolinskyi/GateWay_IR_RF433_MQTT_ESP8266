@@ -15,7 +15,7 @@
 ## Ссылка на проект:
 [СХЕМА И ПЕЧАТНАЯ ПЛАТА:](https://easyeda.com/golinskiy.konstantin/esp-8266_gateway_ir_rf433/)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
 
 
 "# GateWay_IR_RF433_MQTT_ESP8266" 
